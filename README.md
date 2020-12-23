@@ -1,4 +1,4 @@
-# How-to-Talk-of-Prediction-Problems
+# How-to-Talk-of-Nearest Neighbor
 
 December 21, 2020
 
